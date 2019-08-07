@@ -7,6 +7,7 @@ You can customize plugin's messages and maximum wanted level to enter an apartme
 ## Installation
 
 **If you don't have any plugins installed and want to install only this plugin:**
+
 0. Go to server folder.
 1. Move "Newtonsoft.Json.dll" to "BrokeProtocol_Data\Managed".
 2. Move "NoApartmentsHiding.dll" to "Plugins" folder.
@@ -14,6 +15,7 @@ You can customize plugin's messages and maximum wanted level to enter an apartme
 4. Run "UniversalUnityHooks.exe" in server folder.
 
 **If you don't have any plugins installed but you want to install some plugins with this one:**
+
 0. Go to server folder.
 1. Move "Newtonsoft.Json.dll" and other plugins' dependencies to "BrokeProtocol_Data\Managed".
 2. Move all plugins to "Plugins" folder.
@@ -21,6 +23,7 @@ You can customize plugin's messages and maximum wanted level to enter an apartme
 4. Run "UniversalUnityHooks.exe" in server folder.
 
 **If you already have some plugins installed with UniversalUnityHooks:**
+
 0. Go to server folder.
 1. Go to "BrokeProtocol_Data\Managed".
 2. Delete "Assembly-CSharp.dll" and rename "Assembly-CSharp.dll.clean" to "Assembly-CSharp.dll".
