@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("NoApartmentsHiding")]
+[assembly: AssemblyTitle("BP-NoApartmentsHiding")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NoApartmentsHiding")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyProduct("BP-NoApartmentsHiding")]
+[assembly: AssemblyCopyright("Copyright ©  2019 AWhiteFox")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
