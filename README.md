@@ -25,6 +25,6 @@ You can customize plugin's messages and maximum wanted level to enter an apartme
 **If you already have some plugins installed with UniversalUnityHooks:**
 
 0. Go to server folder.
-1. Move "Newtonsoft.Json.dll" to \BrokeProtocol_Data\Managed" if it is not there.
+1. Move "Newtonsoft.Json.dll" to "BrokeProtocol_Data\Managed" if it is not there.
 2. Move "NoApartmentsHiding.dll" to "Plugins" folder.
 3. Run "UniversalUnityHooks.exe" in server folder.
