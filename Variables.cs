@@ -15,21 +15,13 @@
     along with BP-NoApartmentsHiding. If not, see <https://www.gnu.org/licenses/>.
  */
 
-using Newtonsoft.Json;
-using System;
-
 namespace NoApartmentsHiding
 {
-    [Serializable]
     public class Variables
     {
-        [JsonProperty]
         public int MaxWantedLevel { get; set; } = 0;
-        [JsonProperty]
         public string MessageColor { get; set; } = "#e2a90b";
-        [JsonProperty]
         public string CantEnterMessage { get; set; } = "You can't enter any apartments because of wanted level.";
-        [JsonProperty]
         public string CantInviteMessage { get; set; } = "You can't invite wanted criminals.";
     }
 }
