@@ -21,7 +21,7 @@ using System.IO;
 using UnityEngine;
 using UniversalUnityHooks;
 
-namespace NoApartmentsHiding
+namespace BP_NoApartmentsHiding
 {
     public static class Hooks
     {

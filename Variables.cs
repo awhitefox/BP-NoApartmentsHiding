@@ -15,7 +15,7 @@
     along with BP-NoApartmentsHiding. If not, see <https://www.gnu.org/licenses/>.
  */
 
-namespace NoApartmentsHiding
+namespace BP_NoApartmentsHiding
 {
     public class Variables
     {
