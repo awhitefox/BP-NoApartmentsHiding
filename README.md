@@ -2,7 +2,7 @@
 
 A plugin to deny players hide in apartments if they are wanted criminals.
 You can customize plugin's messages and maximum wanted level to enter an apartment.
-- Config file can be fould in "Plugins" folder.
+- Config file can be fould in "Plugins" folder after first server start
 
 ## Installation
 
